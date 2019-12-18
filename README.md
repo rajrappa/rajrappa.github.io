@@ -1,3 +1,1 @@
-# Rajrappa
-
 ### About
