@@ -13,14 +13,14 @@ Example: mein **N**ame, der **A**pfel
 | --- | --- |
 | masculine | **ein** Mann | 
 | neuter | **ein** Mädchen | 
-| feminine | **eine** Frau 
+| feminine | **eine** Frau |
 
 #### Conjugation of regular verbs 
 | English person | ending | German example |
 | --- | --- | --- | 
 | I | -e | ich trink**e** | 
 | you (singular <br>informal) | -st | du trink**st** | 
-he/she/it | -t | er/sie/es trink**t**
+he/she/it | -t | er/sie/es trink**t** | 
 
 #### Conjugation of the verb sein (to be) 
 | English | German | 
@@ -63,9 +63,9 @@ Example: _trinken_ (to drink)
 | --- | --- | --- |
 | I | -e | **ich** trink**e** |
 | you (singular <br> informal) | -st | **du** trink**st** |
-| he/she/it | -t | **er/sie/es** trink**t**|
-| we | -en | **wir** trink**en**|
-| you (plural informal) | -t | **ihr** trink**t**|
+| he/she/it | -t | **er/sie/es** trink**t** |
+| we | -en | **wir** trink**en** |
+| you (plural informal) | -t | **ihr** trink**t** |
 | they | -en | **sie** trink**en** |
 
 Notice that the first and the third person plural have the same ending.  
