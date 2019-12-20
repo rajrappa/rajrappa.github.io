@@ -43,7 +43,8 @@ In German, there's **no continuous aspect**. There are no separate forms for "I 
 
 In German, the **plural form does not depend on what gender** the singular form is.  
 Regardless of grammatical gender, **all plural nouns take the definite article  _die_**.  
-Just like in English, there's **no plural indefinite** article.
+Just like in English, there's **no plural indefinite** article.  
+
 | English | German |
 | --- | --- |
 | a man | ein Mann |
@@ -52,13 +53,14 @@ Just like in English, there's **no plural indefinite** article.
 #### You, you and you 
 In German, when  **addressing a single person, use  _du_**:  
     -   _Du_  bist mein Kind. (_You_  are my child.)  
-If you are talking to  **more than one person, use  _ihr_**:
+If you are talking to  **more than one person, use  _ihr_**:  
     -   _Ihr_  seid meine Kinder. (_You_  are my children.)
 
 #### Verb Conjugation 
 
 Complete table for conjugating regular verbs: 
 Example: _trinken_ (to drink) 
+
 | English person | ending | German example |
 | --- | --- | --- |
 | I | -e | **ich** trink**e** |
@@ -73,7 +75,7 @@ Complete table for the irregular verb  _sein_  (to be):
 
 | English | German |
 | --- | --- |
-| I am | **ich bin**|
+| I am | **ich bin** |
 | You (singular informal) are | **du bist** |
 | he/she/it is | **er/sie/es ist** |
 | we are | **wir sind** |
