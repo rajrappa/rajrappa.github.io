@@ -1,3 +1,5 @@
+[Navigate to Home](../README.md)
+
 # German notes 
 
 ## Basics 1 
